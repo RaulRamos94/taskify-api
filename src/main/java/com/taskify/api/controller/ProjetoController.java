@@ -10,7 +10,7 @@ import com.taskify.api.model.Projeto;
 import com.taskify.api.repository.ProjetoRepository;
 
 @RestController
-@RequestMapping(value = "/projetos")
+@RequestMapping(value = "/projetos") //Teste
 public class ProjetoController {
 
     @PostMapping
