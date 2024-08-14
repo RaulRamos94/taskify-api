@@ -28,7 +28,7 @@ git clone https://github.com/alexandresjunior/taskify-api.git
 cd taskify-api
 ```
 3. Configure o banco de dados:
-Certifique-se de que um servidor MySQL esteja em execução e crie um banco de dados chamado "taskify-api".
+Certifique-se de que um servidor MySQL esteja em execução e crie um banco de dados chamado "taskify-apii".
 ```
 CREATE DATABASE taskify;
 ```
